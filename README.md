@@ -9,3 +9,5 @@ There are 2 main menus in this app:
 2. Student Menu
 
 Admin menu is the menu that controls the classes of each students and manages the courses on the app. You can add or update and delete a course, and you can also assign classes to each students in the app. This menu can also manage schedules for each class for which date the class will be held, along with the time the class will be held and the classroom. As of now, there is no delete or update functionality for the schedule feature other than through cascade delete of a class. The student menu is a straightforward view menu that shows each student's account detail, courses, and the classes's schedules. There is only 3 students and no other way to add or edit the students.
+
+UPDATE: turns out i forgot about the course view for the students lol, but the concept is basicly a lesser version of the view on AdminCourseMenu.
